@@ -1,0 +1,21 @@
+{
+  "name": "Snake Game",
+  "short_name": "Snake",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f9f4e5",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "snake_icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "snake_icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
